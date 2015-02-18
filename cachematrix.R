@@ -1,5 +1,13 @@
-## Put comments here that give an overall description of what your
-## functions do
+##
+## rprog-011 Programming Assignment 2,
+##
+## Course URI:
+##   https://class.coursera.org/rprog-011/
+## Assignment URI:
+##   https://class.coursera.org/rprog-011/human_grading/view/courses/973492/assessments/3/submissions
+##
+## C Fenijn, February 2015.
+#
 
 ## Write a short comment describing this function
 
