@@ -7,6 +7,9 @@
 ## Assignment URI:
 ##   https://class.coursera.org/rprog-011/human_grading/view/courses/973492/assessments/3/submissions
 ##
+## Note that we strive for a relatively simple approach. If necessary, it can be made more sophisticated
+## at a later point.
+##
 ## C Fenijn, February 2015.
 #
 
